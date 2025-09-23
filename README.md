@@ -13,7 +13,7 @@
 ### Projects
 - HexaCTF Platform ([challenge operator](https://github.com/HexaCTF/challenge-operator) & [api](https://github.com/HexaCTF/challenge-api)): Kubernetes-based hacking contest platform
 - [pyclassanalyzer](https://github.com/S0okJu/pyclassanalyzer): Python project analyzer that visualizes class structures as diagrams
-
+- [python-openstackmcp-server](https://github.com/openstack-kr/python-openstackmcp-server): The MCP server that provides an interface for AI assistants to interact with OpenStack services.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s0okju&layout=compact&exclude_repo=S0okJu.github.io,Portscan.chosun.final&hide=Mustache,Smarty,html)
 
